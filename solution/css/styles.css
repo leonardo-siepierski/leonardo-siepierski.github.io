@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.subtitle-container {
+    border: 1px solid black;
+}
+
+.item {
+    margin: 10px;
+    background-color: grey;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: #f54949;
+}
+
+.green {
+    background-color: #2ff31d;
+}
+
+.blue {
+    background-color: #2b88df;
+}
+
+.content {
+    padding: 10px;
+}
