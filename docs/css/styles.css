@@ -9,3 +9,19 @@ h1 {
 main {
     background-color: grey;
 }
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.item {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .item {
+        display: none;
+    }
+}
